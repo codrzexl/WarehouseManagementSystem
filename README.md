@@ -26,4 +26,4 @@ It allows you to manage products, inventory, and orders efficiently, along with 
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/warehouse-management.git
+   git clone https://github.com/codrzexl/warehouse-management.git
